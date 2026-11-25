@@ -4,7 +4,7 @@ AI-Powered Recruitment Automation Platform for Ethiopian Airlines and Ethiopian 
 
 **Final Year Project - Addis Ababa University, Software Engineering**
 
-##  Overview
+###  Overview
 
 EAA Recruit is an AI-powered platform designed to automate high-volume recruitment for Ethiopian Airlines. The system leverages machine learning techniques to objectively rank candidates based on their resumes against job descriptions, providing explainable results.
 
